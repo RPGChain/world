@@ -1,0 +1,7 @@
+{
+    "name": "Boar",
+    "nameAlt": "Disgusting Beast",
+    "level": 1,
+    "image": "enemies/boar-1.png",
+    "roomHint": "a trail of mud"
+}

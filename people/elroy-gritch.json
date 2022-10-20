@@ -1,0 +1,15 @@
+{
+    "name": "Elroy Gritch",
+    "nameShort": "Elroy",
+    "description": "He has short, wavy, dyed purple hair and green eyes. His face is soft and repugnant face. Occasionally, you notice his face twitching as he speaks.",
+    "image": "quest-givers/priest-1.png",
+    "gender": "Male",
+    "occupation": "Holy Man",
+    "race": "Human",
+    "greeting": "Oh, bless this day!",
+    "acceptanceResponse": "I knew the gods would smile upon us this day.",
+    "completionResponse": "It is a miracle. I prayed for this and it has shown true!",
+    "items": [
+        "old-book"
+    ]
+}

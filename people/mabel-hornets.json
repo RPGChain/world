@@ -1,0 +1,16 @@
+{
+    "name": "Mable Hornets",
+    "nameShort": "Mable",
+    "description": "She is dainty and polite, but something about her gives you the creeps.",
+    "image": "quest-givers/teacher-1.png",
+    "gender": "Female",
+    "occupation": "Educator",
+    "race": "Halfling",
+    "greeting": "Ahoy!",
+    "acceptanceResponse": "You are just a dear!",
+    "completionResponse": "Gosh! You actually did it!... I mean, thanks!",
+    "items": [
+        "husbands-shortsword",
+        "golden-chicken-statue"
+    ]
+}

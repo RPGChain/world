@@ -1,0 +1,7 @@
+{
+    "name": "Giant Wolf Spider",
+    "nameAlt": "Creepy eight legged monster",
+    "level": 1,
+    "image": "enemies/spider-1.png",
+    "roomHint": "a short strand of thick webbing"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Goblin",
+    "nameAlt": "Gob",
+    "level": 1,
+    "image": "enemies/goblin-1.png",
+    "roomHint": "a trail of chicken bones and other trash"
+}

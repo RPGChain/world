@@ -1,0 +1,7 @@
+{
+    "name": "Cultist",
+    "nameAlt": "Strange Man",
+    "level": 0,
+    "image": "enemies/cultist-2.png",
+    "roomHint": "a moaning sound"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Moonraven",
+    "description": "The town was built atop ancient ruins and known for its ale production. The ruler is fair and just, respected by the populace. The races live together mostly in harmony.",
+    "image": "towns/town-night-2.png",
+    "questGivers": [
+        "gonen-shanondale",
+        "mabel-hornets"
+    ]
+}

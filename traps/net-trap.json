@@ -1,0 +1,7 @@
+{
+    "name": "Net Trap",
+    "introductionDescription": "A large net begins to fall from the ceiling.",
+    "successDescription": "You are able to leap out of the way before being covered.",
+    "failDescription": "The net covers your body whole, you are able to cut your way out, but may have made some noise.",
+    "image": "traps/net-1.png"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Beverly Hotfire",
+    "nameShort": "Mrs. Hotfire",
+    "description": "She has cropped, wavy, auburn hair and golden eyes. You notice she is branded as a felon on her back.",
+    "image": "quest-givers/inn-keeper-4.png",
+    "gender": "Female",
+    "occupation": "InnKeeper",
+    "race": "Human",
+    "greeting": "Good to see ya!",
+    "acceptanceResponse": "Wow it means the world that you would do this for me.",
+    "completionResponse": "Wow, I didn't know you had it in you! Impressive.",
+    "items": [
+        "husbands-shortsword",
+        "golden-chicken-statue"
+    ]
+}

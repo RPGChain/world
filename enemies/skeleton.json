@@ -1,0 +1,7 @@
+{
+    "name": "Skeleton",
+    "nameAlt": "Skeleton",
+    "level": 1,
+    "image": "enemies/skeletons-1.png",
+    "roomHint": "quick but loud thud sounds"
+}

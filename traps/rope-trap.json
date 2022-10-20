@@ -1,0 +1,7 @@
+{
+    "name": "Rope Trap",
+    "introductionDescription": "A rope is knotted below a ledge. As you begin to climb down, a trap is triggered from a mechanism on the other side as the rope begins to drop as well.",
+    "successDescription": "You manage to fall with grace, landing on your feet while making almost no loud noises.",
+    "failDescription": "You fall, inflicting some pain to your legs. A loud bang is heard from the other side of the room, hopefully no enemies were alerted.",
+    "image": "traps/rope-1.png"
+}
