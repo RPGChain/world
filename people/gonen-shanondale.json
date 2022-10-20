@@ -1,0 +1,17 @@
+{
+    "name": "Gonen Shanondale",
+    "nameShort": "Mr. Shanondale",
+    "description": "He has cropped, wavy, brown hair shaved on the right side and brown eyes.",
+    "image": "quest-givers/postman-1.png",
+    "gender": "Male",
+    "occupation": "Courier",
+    "race": "Dwarf",
+    "greeting": "Well, hello.",
+    "acceptanceResponse": "Really? Thank you!",
+    "completionResponse": "I knew I came to the right person.",
+    "items": [
+        "wifes-necklace",
+        "sword",
+        "kobald-dragonshield"
+    ]
+}

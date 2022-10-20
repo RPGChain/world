@@ -1,0 +1,7 @@
+{
+    "name": "Kobold",
+    "nameAlt": "Creature",
+    "level": 0,
+    "image": "enemies/kobold-1.png",
+    "roomHint": "the sound of heavy footsteps"
+}

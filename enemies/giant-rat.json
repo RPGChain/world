@@ -1,0 +1,7 @@
+{
+    "name": "Giant Rat",
+    "nameAlt": "Gross Big Pest",
+    "level": 0,
+    "image": "enemies/rat-1.png",
+    "roomHint": "a large trail of feces"
+}

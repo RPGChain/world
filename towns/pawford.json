@@ -1,0 +1,9 @@
+{
+    "name": "Pawford",
+    "description": "Pawford is governed by a consortium of guildmasters, whose bizarre laws and decrees are commonly ignored. In the center of town is The Guildhall: An impressive timber and brick building, decorated with finely carved gargoyles.",
+    "image": "towns/town-1.png",
+    "questGivers": [
+        "gonen-shanondale",
+        "mabel-hornets"
+    ]
+}

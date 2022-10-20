@@ -1,0 +1,13 @@
+{
+    "roomHint": "a red chip of metal",
+    "hint": "a femur, covered in soot",
+    "description": "In front of the locked gate, there are three levers. Your adventurer’s instinct is telling you that you must pull one of them. Guessing wrong might have….consequences. You are not a fan of consequences. The three levers are color coded: Black, Red, and White",
+    "failDescription": "You guessed wrong it seems...",
+    "successDescription": "You have pulled the right lever! The passage before you opens, leading to an inner sanctum.",
+    "validOption": "Pull the red lever",
+    "invalidOptions": [
+        "Pull the black lever",
+        "Pull the white lever"
+    ],
+    "image": "puzzles/levers-1.png"
+}

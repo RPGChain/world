@@ -1,0 +1,7 @@
+{
+    "name": "Bandit",
+    "nameAlt": "Thief",
+    "level": 0,
+    "image": "enemies/cultist-1.png",
+    "roomHint": "the sound of footsteps"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Arrow Trap",
+    "introductionDescription": "The rancid smell assails, and you find yourself encapsulated in a dead zone. The place is punctuated with dead bodies. On the walls, there’s something, be wary of it!",
+    "successDescription": "You were able to dodge the impaling arrows.",
+    "failDescription": "Unable to dodge the impaling arrow, your brace while removing the sharp blade from the side of your hip. The wound will heal, but this has certainly slowed you down.",
+    "image": "traps/arrow-1.png"
+}

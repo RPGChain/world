@@ -1,0 +1,7 @@
+{
+    "name": "Giant Bat",
+    "nameAlt": "Big winged creature",
+    "level": 1,
+    "image": "enemies/bat-1.png",
+    "roomHint": "a fluttering sound"
+}

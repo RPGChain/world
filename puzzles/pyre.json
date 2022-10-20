@@ -1,0 +1,13 @@
+{
+    "roomHint": "the smell of smoke",
+    "hint": "a femur, covered in soot",
+    "description": "You proceed through the cave and come across different pyres deprived of their beloved fire\n\nOn inspection, you find out there are levers below each pyre. What should you do?",
+    "failDescription": "You didn't pull the levers correctly, and the entire place is engulfed in a roaring sea of flames.",
+    "successDescription": "Each even number pyre has been lit. It seems like the passage is opened.\n\n Something is glittering near the center pyre.",
+    "validOption": "Pull the lever covered in bones and ash",
+    "invalidOptions": [
+        "Pull the lever covered in green ooze",
+        "Pull the lever that reads 'do not pull'"
+    ],
+    "image": "puzzles/pyre-1.png"
+}

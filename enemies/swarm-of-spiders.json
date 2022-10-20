@@ -1,0 +1,7 @@
+{
+    "name": "Swarm of Spiders",
+    "nameAlt": "Spiders",
+    "level": 0,
+    "image": "enemies/spider-swarm-1.png",
+    "roomHint": "a trail of small spiders"
+}

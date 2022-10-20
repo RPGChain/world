@@ -1,0 +1,13 @@
+{
+    "roomHint": "the sound of falling pebbles",
+    "hint": "an old stone, which simply says 'FI', some remaining letters may have been broken off",
+    "description": "A large marble desk holds square tiles of numbers. \n\n At the top of the desk, two numbers have already been placed. On the left, the number '610'. On the right, '1597'. In the middle, a hole is open for an additional tile. \n\n Or maybe it would be best to not mess with this?",
+    "failDescription": "The tiles freeze up, you seem to not be able to remove the middle tile anymore. Nothing else appears to happen.",
+    "successDescription": "The tiles freeze up, you seem to not be able to remove the middle tile anymore. A loud metal 'unlock' sound is heard on the base of the stone.\n\n A small door, slides open.",
+    "validOption": "Place the tile labeled: 987",
+    "invalidOptions": [
+        "Place the tile labeled: 1123",
+        "Place the tile labeled: 377"
+    ],
+    "image": "puzzles/chalk-numbers-1.png"
+}
